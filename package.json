@@ -1,0 +1,21 @@
+{
+  "name": "interchain_token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "newInterchainToken.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.3.1",
+    "hardhat": "^2.18.1"
+  },
+  "dependencies": {
+    "@axelar-network/axelarjs-sdk": "^0.13.9",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "crypto": "^1.0.1"
+  }
+}
